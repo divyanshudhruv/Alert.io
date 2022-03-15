@@ -1,7 +1,7 @@
 # **Alert.io**
 <br>
 
-😉 A Simple, Beautiful, Customizable CSS Library For Displaying Alerts !
+😉 A Simple, Beautiful, Customizable **CSS** Library For Displaying Alerts !
 
 <br>
 
