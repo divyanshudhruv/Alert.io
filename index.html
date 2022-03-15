@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+    <script src="https://unpkg.com/boxicons@2.1.2/dist/boxicons.js"></script>
+
+    <title>Alert.io</title>
+  </head>
+  <body>
+    <!--
+    <div class="alert">
+      <div class="box small">
+        Just so you know, this is a CSS alert library!<button
+          class="btn btn-danger small bold"
+        >
+          Got It!
+        </button>
+      </div>
+    </div>-->
+    <div class="nav">
+      <div class="logo"><div class="logo-text">Alert<span>.</span>io</div></div>
+      <div class="text">
+        <div
+          class="button btn-success"
+          onclick="Swal.fire(
+            'Hey!',
+            'Documentation Not Added Yet',
+            'warning'
+          )"
+        >
+          <ion-icon name="bookmarks"></ion-icon>Documentation
+        </div>
+        <div
+          class="button btn-primary"
+          onclick="Swal.fire(
+          'Hey!',
+          'Videos Not Added Yet',
+          'warning'
+        )"
+        >
+          <ion-icon name="ios-play-circle"></ion-icon>Videos
+        </div>
+        <div
+          class="button btn-info"
+          onclick="Swal.fire(
+          'Hey!',
+          'Star Not Added Yet',
+          'warning'
+        )"
+        >
+          <ion-icon name="ios-star"></ion-icon>Star
+        </div>
+        <div
+          class="button btn-danger"
+          onclick="Swal.fire(
+          'Loved ?',
+          'Press That Button',
+          'question'
+        )"
+        >
+          <ion-icon name="heart"></ion-icon>Love
+        </div>
+        <div class="button btn-more">
+          <ion-icon name="ios-more"></ion-icon>
+        </div>
+        <div class="button btn-github">
+          <ion-icon name="logo-github"></ion-icon>
+        </div>
+        <div
+          class="button btn-customize"
+          onclick="Swal.fire(
+          'Hey!',
+          'Customization Not Added Yet',
+          'warning'
+        )"
+        >
+          <ion-icon name="settings"></ion-icon>Customize
+        </div>
+        <div class="button btn-like" onclick="fork()">
+          <ion-icon name="ios-git-network"></ion-icon>Fork It
+        </div>
+      </div>
+    </div>
+    <div class="main-body">
+      <img src="hacker.png" class="logo" />
+      <div class="btn-content">
+        <div class="button btn-like">
+          <ion-icon name="arrow-round-forward"></ion-icon>Getting Started
+        </div>
+        <div class="button btn-customize">
+          <ion-icon name="download"></ion-icon>Download v0.1
+        </div>
+      </div>
+      <div class="coming-content"><div class="text">Coming Soon!</div></div>
+    </div>
+    <div class="body-main">
+      <div class="wave-top-content">
+        <div class="wave-top"></div>
+      </div>
+      <div class="wave-bottom-content">
+        <div class="wave-bottom"></div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
