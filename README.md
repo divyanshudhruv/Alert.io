@@ -1,10 +1,11 @@
 # **Alert.io**
+<br>
 
 😉 A Simple, Beautiful, Customizable CSS Library For Displaying Alerts !
 
+<br>
 
-
-## **Key Features:**
+## Key Features:
 
 > Easy To Use.
 
@@ -12,6 +13,54 @@
 
 > Made With **CSS**.
 
+<br>
+
 ## Collaboration:
 
 > Want To Collaborate ?
+
+<br>
+
+## Contribute:
+
+> Star Or Fork The Repository To Contribute.
+
+<br>
+
+## Logo:
+
+> We Are Finding A Good Logo.
+
+<br>
+
+## License
+
+> This repository is licensed under **MIT License**.
+
+<br>
+
+## TODO:
+
+> - [x] Make Landing Page
+> 
+> - [ ] Add Alert
+> 
+> - [ ] Publish
+
+<br>
+
+## Note:
+```js
+
+var languages = [HTML, CSS, JavaScript]
+
+function star(){
+  console.log("⭐ The Repo")
+}
+
+function alert() {
+  console.log("This Is Alert.io");
+}
+
+
+```
