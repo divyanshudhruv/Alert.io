@@ -33,11 +33,26 @@
 
 <br>
 
-## License
+## License:
 
 > This repository is licensed under **MIT License**.
 
 <br>
+
+<!--
+## Colors:
+
+> Sea Green - #00d1b2
+
+> Green - #48c78e
+
+> Red - #f14668
+
+> Pink - #ea4aaa
+
+> Yellow - #ffd257
+-->
+
 
 ## TODO:
 
